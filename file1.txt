@@ -1,3 +1,4 @@
 Hello world!!!
 Here was user2
 Good evening! (from branch main)
+line from user1 - lessons about rebase
